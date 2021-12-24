@@ -1,2 +1,2 @@
 # Learning-Python
-This repo is for documenting my progress in learning python. This can include posts of my small projects or things that i have learned.
+This repository is for documenting my progress in learning Python. This can include posts of small projects/things that I have created/compiled.
